@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tytułek on moj sajt</title>
+    <link>http://example.org/</link>
+    <description>Recent content in tytułek on moj sajt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>druu</title>
+      <link>http://example.org/drugi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/drugi/</guid>
+      <description>drugi</description>
+    </item>
+    
+    <item>
+      <title>pierwszy</title>
+      <link>http://example.org/pierwszy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/pierwszy/</guid>
+      <description>pierwszy</description>
+    </item>
+    
+  </channel>
+</rss>
