@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://www.mediacraft.pl/test3/categories/</loc>
   </url><url>
-    <loc>http://example.org/drugi/</loc>
+    <loc>http://www.mediacraft.pl/test3/drugi/</loc>
   </url><url>
-    <loc>http://example.org/pierwszy/</loc>
+    <loc>http://www.mediacraft.pl/test3/pierwszy/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.mediacraft.pl/test3/tags/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://www.mediacraft.pl/test3/</loc>
   </url>
 </urlset>

@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^(.*)$ https://mediacraft.video/3dassets.html/$1 [R=301,L]
+
+RewriteEngine On
+RewriteRule ^(.*)$ http://innadomena.pl/$1 [R=301,L]

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tytułek on moj sajt</title>
-    <link>http://example.org/</link>
+    <link>http://www.mediacraft.pl/test3/</link>
     <description>Recent content in tytułek on moj sajt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.mediacraft.pl/test3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>druu</title>
-      <link>http://example.org/drugi/</link>
+      <link>http://www.mediacraft.pl/test3/drugi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/drugi/</guid>
+      <guid>http://www.mediacraft.pl/test3/drugi/</guid>
       <description>drugi</description>
     </item>
     
     <item>
       <title>pierwszy</title>
-      <link>http://example.org/pierwszy/</link>
+      <link>http://www.mediacraft.pl/test3/pierwszy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/pierwszy/</guid>
+      <guid>http://www.mediacraft.pl/test3/pierwszy/</guid>
       <description>pierwszy</description>
     </item>
     
