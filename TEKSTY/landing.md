@@ -1,11 +1,11 @@
 ### ATTENTION BUSINESS OWNERS AND BRAND MANAGERS!
-# OUR ANIMATION COMPANY IS GOING TO TRIGGER A HEAD-TURNING WOW! EFFECT ON YOUR PROSPECTS!
+# OUR ANIMATION COMPANY WILL TRIGGER A SMASHING WOW EFFECT ON YOUR PROSPECTS!
 
 
 ### SATISFY YOUR CLIENT'S **[VIDEO CONSUMPTION SURGE IN 2023](https://blog.hubspot.com/marketing/how-video-consumption-is-changing)** BY CONTRACTING OUR CUTTING EDGE **_VIDEO PRODUCTION SERVICES_**, CREATED BY OUR EXCELLENT _ANIMATION PRODUCERS_ AND AWARD WINNING _CARTOON ANIMATORS_.
 
 #### GET FREE QUOTE NOW!
-Same day response, Easy 1 minute form.
+Same day response, Easy, 1 min. form
 
 #### GET FREE LOGO ANIMATION
 Worth 500 USD, mailed to Your Inbox in 5 mins.
@@ -21,12 +21,12 @@ ___
 
 
 
-### COLLOSAL FACT:
-##### Video and animation is now used by an overwhelming majority of businesses, and consumers are undeniably relying on video content to make purchases. Before the pandemic, video made up 73% of all internet traffic. That number increased to 82% in 2022 and will increase to 91% in 2023.
+### UNDENIABLE FACT:
+##### Video and animation is now used by an overwhelming majority of businesses, and consumers are ultimately relying on video content to make purchases. Before the pandemic, video made up 73% of all internet traffic. That number increased to 82% in 2022 and will increase to 91% in 2023.
 
-### LEVEL UP WITH THE CURRENT TRENDS AND AVOID THOSE **5 PROBLEMS WHICH MAY RESULT IN LOSING YOUR  CLIENTS:
+### LEVEL UP WITH THE CURRENT TRENDS AND AVOID THOSE **5 PROBLEMS WHICH MAY RESULT IN LOSING YOUR  CLIENTS**:
 
-**- Not keeping up with the digital advertising trends**
+**- Not keeping up with the digital marketing trends**
 -   Internet marketing is rapidly changing, with  greater use of AI, YouTube surpassing Facebook as the most popular outlet for influencing consumer behavior and video being preferred by 80% of people over written text. So it’s no surprise that It can be difficult to keep up with current trends in video branding. This is especially important for businesses delivering cutting edge solutions for clients.
 
 
@@ -45,11 +45,27 @@ ___
 **- Downplaying the power of emotion!**
 
 - In the last 2 years, we've seen a wave of sentimental and emotional content playing a huge role in the advertising industry. While you might think this is just a temporary trend which will pass away, check again.
-"Appealing to customers by using solely logic and forgetting the essential role emotion plays leaves a lot of money on the table. Ultimately people buy products and services because they feel like it's the right thing to do," as quoted by Sheldon D. Goldstein. "Emotion has been scientifically proven to drive decision-making behavior. Bottom line, when properly executed, this leads to more and more conversions, sales, and revenue."
-
-- We rely on the science which proves that emotions drive purchasing decisions. We acheive emotionality with enthusiastically animated characters - where every gesture or face expression creates a passionate performance we know from Disney’s or Pixar movies. We acheive sensitiveness by crafting lush landscapes, deep sea panoramas or wild and flourishing vistas. And then we put Your spotlight action in the middle.  
+"Appealing to customers by using solely logic and forgetting the essential role emotion plays leaves a lot of money on the table. Ultimately people buy products and services because they feel like it's the right thing to do," as quoted by Sheldon D. Goldstein. "Emotion has been scientifically proven to drive decision-making behavior. Bottom line, when properly executed, this leads to more and more conversions, sales, and revenue." Let's not underestimate the power of emotion.
 
 
+- We rely on the science which proves that emotions drive purchasing decisions. We will help You acheive the energy and vigor with dynamically animated characters - where every gesture or face expression creates a passionate performance known from Disney or Pixar animations. We will help You induce sensitiveness by crafting lush realistic environments, deep sea panoramas or wild and flourishing vistas. And then we put Your spotlight action in the middle. We will help You evoke the sensation of splendor and luxury by rendering photorealistic scenes and substances, perfectly matching the rarity of Your health and beauty product features. 
+
+**- You don’t accurately estimate projects and miss deadlines**
+
+- Business owners or creative agencies dealing with large projects, requiring multiple staff, specialists and multiple different sectors of the company often have a problem of fixing the deadlines, budgets and other variables - especially when assessments are made based on daily or monthly rates - rather than product completion landmarks.
+
+
+- Understanding this reality - task estimation is a building block for every project our company makes. Before you sign a contract with us, you will be able to determine how long each type of our offered service requires for completion, and how much budget each project will take before it even breaks ground. More importantly we give a GUARANTEE of delivering project on time or You get Your money back - sounds crazy? Not if we have a 100% history of delivering projects on time since starting of our company in 2010. We have produced 3D content for the biggest video shows in the world watched by thousands of audience on site - we know what it means to launch the show punctually by the second so that the anticipation of the audience is rewarded with a breathtaking GO!
+
+**- You don’t retain quality talent**
+
+- It takes on average three months to onboard a new employee. Your company works hard to attract, seek out, and train new talent. Talent loss is nothing to take lightly – it is very costly. Lack of the right talent is also the leading reason why comapnies fail.  A lack of in-house artists pushes many agencies and game development companies to seek third-party contractors. A rich deal for a new project is in hands, but the available designers’ team may not enough to cope with the upcoming tasks. Sound familiar?
+
+
+- When You outsource Your project to us, You migrate Your risk: One of the main reasons people at agencies burnout or quit is because they are overloaded with work and unable to see who’s working on what at a high-level. When our team of seasoned proffessionals takes the burden of creating and producing Your top quality content, your team won’t feel overworked and ultimately will be happier! (and stick around for longer).
+
+#### GET FREE QUOTE NOW!
+Same day response, Easy, 1 min. form
 
 
 
