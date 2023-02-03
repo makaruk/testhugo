@@ -92,8 +92,108 @@ One of the leverages of video animation is that it can be posted on ANY internet
 | CHARACTER ANIMATION, KEYFRAME BODY MECHANICS, FACE ANIMATION                                                 | Communicate with your audience using emotions by bringing a 3D character to life. Character animation is special and different from other types of animation like motion graphics or animated logos. It requires considerable skill to make a "living" character look believable and takes a lot of effort. We have a passion for this powerful medium just like Walt Disney did.                                                                                                                                                                                                                                                                                                          |
 | ADVANCED VFX TOOLS, PROCEDURAL COMPLEX SIMULATIONS, GLOBAL ILLUMINATION                                      | BE CONVINCING! Realistic depictions of natural phenomena: Complex simulations like fluid dynamics, cloth, smoke, and fire can result in highly realistic and convincing representations of colossal ocean waves, gigantic explosions, breaking destructions, mesmerizing fluids, rare sea maelstrom, luxury hair dynamics, alarming body collision, revealing smoke, remarkable human crowds or a monumental worldwide inferno, which can enhance the overall realism and impact of visual effects in film, television, and video games.                                                                                                                                                   | 
 
+#### GET FREE QUOTE NOW!
+Same day response, Easy, 1 min. form
+
+#### GET FREE LOGO ANIMATION
+Worth 500 USD, mailed to Your Inbox in 5 mins.
+
+#### SCHEDULE FREE VIDEO CHAT
+Let's chat about your project and find the best approach together - the consultation is on us for 30 minutes!
+
+
+
 
 ### OUR OFFER
+
+#### ADVERTISING VIDEO: A type of video that promotes a product or service to increase brand awareness, stimulate interest and encourage sales. Advertising videos can be seen on television, online, and in public spaces, and can range from traditional 30-second commercials to longer-form content such as brand films.
+
+#### CORPORATE VIDEO: A type of video created by a company for internal or external use, typically used for communication, training, marketing or public relations purposes. Corporate videos often showcase a company’s culture, products, services, and achievements, and are used to build trust and credibility with employees, customers, partners, and investors.
+
+#### LOGO ANIMATION: A type of animation that brings a logo or brand symbol to life. Logo animations are typically short, attention-grabbing and memorable, and are often used to introduce a brand, product, or service in advertising, branding or digital media.
+
+#### INTRO ANIMATION: A type of animation that introduces a video, presentation, or broadcast. Intro animations are typically short and designed to be attention-grabbing, providing context and setting the tone for the content that follows.
+
+#### PRODUCT ANIMATION: A type of animation that showcases a product, typically used for product demonstrations, product presentations, and product training. Product animations can be photorealistic or stylized, and are used to communicate the key features, benefits, and use cases of a product in an engaging and easily digestible format.
+
+#### BRAND VISUAL ANIMATION: A type of animation that is used to create a visual identity and style for a brand. Brand visual animations can range from short logo animations to longer-form content such as brand films, and are used to build brand awareness, establish brand personality, and create emotional connections with audiences.
+
+#### CHARACTER ANIMATION: focuses on creating and animating lifelike or stylized characters to tell a story or convey a message.
+
+#### OBJECT ANIMATION: involves animating objects, such as machinery, products, or other inanimate objects to show their function or movement.
+
+#### ARCHITECTURAL ANIMATION: is used to create visual representations of architectural designs, building interiors and exteriors, and landscapes.
+
+#### ENVIRONMENTAL ANIMATION: is used to create representations of natural and man-made environments, including landscapes, cities, and other settings.
+
+#### MOTION GRAPHICS ANIMATION: involves creating and animating graphic elements, such as logos, titles, and information graphics to enhance the visual appeal of a video.
+
+#### EXPLAINER ANIMATION: is used to explain complex ideas, processes, or products through simple and visually engaging animations.
+
+#### SCIENTIFIC ANIMATION: is used in the fields of medicine, biology, physics, and other sciences to illustrate complex concepts and procedures.
+
+#### PHYSICS-BASED ANIMATION: involves simulating the behavior of physical objects, such as liquids, cloth, and smoke, to create realistic animations.
+
+#### FANTASY ANIMATION: involves creating fantastical, imaginary worlds and creatures to tell a story or convey a message.
+
+#### MEDICAL ANIMATION: is used in the medical industry to illustrate medical procedures, surgeries, and anatomy.
+
+#### PRODUCT ANIMATION: is used to showcase products and their features, often before they are available to the public.
+
+#### ADVERTISING ANIMATION: is used to create advertisements for products or services, often with the aim of attracting the attention of potential customers.
+
+#### STYLIZED ANIMATION: involves creating and animating characters or objects in a unique and stylized manner, often with exaggerated features and movements.
+
+#### STOP-MOTION ANIMATION: involves capturing a series of still images and playing them back in sequence to create the illusion of motion.
+
+#### INTERACTIVE ANIMATION: is designed to be interactive, allowing users to interact with the animation and control its behavior in game engines like **UNREAL ENGINE 5, UNITY, GODOT**, etc/ 
+
+ 
+Our business model allows us to stack multiple advantages into one simple package for EACH of the animation types above:
+
+- Online Zoom video meeting with You (or Teams, Google Meet, etc) to discuss Your needs, vision, any potential limitations and time constraints, receive Your briefing, find matching video references and give advice on the best possible storytelling and look development You can most benefit from. 
+- Script / Storyboard / Moodboard / Concept Development and Fixing Action Plot
+- Music, SFX and Audio reference concepts
+- Blocking of animation timing and audio cue points
+- Planning Camera Shots and Staging
+- Production of 2D and 3D assets:
+  - Environment Blocking and Development, Foliage, Scenery, Light, 
+  - Props and Scenery Creation
+  - Character Design and Rigging
+  - 3D Modelling, LOD Development, Retopologising
+  - Texturing, Surfacing
+  - for gamedev: compatibility checks and conversions for Unity and Unreal Engine 5
+  
+- Animating Assets, Pose Blocking
+- Purchase of Licenses for Public Broadcast
+- VFX Programming, Particle Effects
+- Lighting of 3D Scene, Global Illumination
+- Sound Design, SFX 
+- ORIGINAL Music Composition and Production
+- Raytraced Rendering and Post Processing
+- Color Grading
+- Extremely High Quality ProRes 4:4:4:4 RGBA 12bit Codec Delivery
+- Any resolution of **up to 16K**, 60fps, for each rendered movie (for custom-built screens).
+- Compliance checks with European and American Video broadcast standards
+- Easy and Secure Delivery via HIGH SPEED Cinema Industry Repository Servers
+- Easy Online Reviews with Graphical Markdown and Timeline Cued Commenting
+- 7 days/week availability for online video consultations at any production stage (for last-minute reviews when every minute counts)
+- Web-based, Kanban style project management, for transparent workflow management, time tracking and rapid visual feedback for client
+
+## We guarantee delivery on scheduled deadline or we give Your money back!
+
+
+
+#### GET FREE QUOTE NOW!
+Same day response, Easy, 1 min. form
+
+#### SCHEDULE FREE VIDEO CHAT
+Let's chat about your project and find the best approach together - the consultation is on us for 30 minutes!
+
+
+
+
+
 
 
 
