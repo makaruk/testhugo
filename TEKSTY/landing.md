@@ -185,7 +185,7 @@ Our business model allows us to stack multiple advantages into one simple packag
 - Easy and Secure Content Delivery via HIGH SPEED Cinema Industry Repository Servers
 - Easy Online Reviews with Graphical Markdown and Timeline Cued Commenting
 - 7 days/week availability for online video consultations at any production stage (for last-minute reviews when every minute counts)
-- Web-based, Kanban style project management, for transparent workflow management, time tracking and rapid visual feedback for client
+- Web-based, super easy to use Kanban style project management, for transparent workflow control, time tracking and rapid visual feedback.
 
 ## We PROMISE to deliver by the agreed deadline, or you'll receive a refund!
 
