@@ -16,6 +16,9 @@ Same day response, Easy, 1 min. form
 
 ___
 
+### WHO ARE WE?
+
+We are a company specializing in production of animated content, such as corporate or brand video, cartoon videos, commercials, and other forms of visual media. We employ concept artists, cartoon animators, writers, software developers and 3d animators to create high-quality, visually appealing animated content for a variety of different purposes, including entertainment, education, advertising, and more.
 
 
 ### UNDENIABLE FACT:
@@ -104,7 +107,7 @@ Let's chat about your project and find the best approach together - the consulta
 
 
 
-### OUR OFFER
+## OUR OFFER
 
 #### ADVERTISING VIDEO: A type of video that promotes a product or service to increase brand awareness, stimulate interest and encourage sales. Advertising videos can be seen on television, online, and in public spaces, and can range from traditional 30-second commercials to longer-form content such as brand films.
 
@@ -133,6 +136,8 @@ Let's chat about your project and find the best approach together - the consulta
 #### SCIENTIFIC ANIMATION: is used in the fields of medicine, biology, physics, and other sciences to illustrate complex concepts and procedures.
 
 #### PHYSICS-BASED ANIMATION: involves simulating the behavior of physical objects, such as liquids, cloth, and smoke, to create realistic animations.
+
+#### VIRTUAL STUDIO ENVIRONMENTS: live-generated REALISTIC 3D environments for LED screen film production setups with live Virtual Cameras in Unreal Engine 5
 
 #### FANTASY ANIMATION: involves creating fantastical, imaginary worlds and creatures to tell a story or convey a message.
 
@@ -173,14 +178,16 @@ Our business model allows us to stack multiple advantages into one simple packag
 - Raytraced Rendering and Post Processing
 - Color Grading
 - Extremely High Quality ProRes 4:4:4:4 RGBA 12bit Codec Delivery
-- Any resolution of **up to 16K**, 60fps, for each rendered movie (for custom-built screens).
+- Any resolution of **up to 16K**, 60fps, for each rendered movie
+- Projection Mapping and warping for custom build LED screens and large venue projector setups
+- Mapping for nDisplay cluster nodes, Unreal Engine 5  
 - Compliance checks with European and American Video broadcast standards
-- Easy and Secure Delivery via HIGH SPEED Cinema Industry Repository Servers
+- Easy and Secure Content Delivery via HIGH SPEED Cinema Industry Repository Servers
 - Easy Online Reviews with Graphical Markdown and Timeline Cued Commenting
 - 7 days/week availability for online video consultations at any production stage (for last-minute reviews when every minute counts)
 - Web-based, Kanban style project management, for transparent workflow management, time tracking and rapid visual feedback for client
 
-## We guarantee delivery on scheduled deadline or we give Your money back!
+## We PROMISE to deliver by the agreed deadline, or you'll receive a refund!
 
 
 
@@ -192,6 +199,8 @@ Let's chat about your project and find the best approach together - the consulta
 
 
 
+## BOOKING WORLDWIDE NOW!
+Don't miss out on the chance to work with our studio and crew! Schedule now before our slots fill up for the upcoming weeks. Contact us promptly to secure your spot.
 
 
 
