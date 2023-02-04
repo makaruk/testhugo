@@ -2,7 +2,7 @@
 # OUR ANIMATION COMPANY WILL CREATE A STUNNING WOW IMPACT ON YOUR PROSPECTS!
 
 
-### HOW WOULD YOU LIKE TO HAVE YOUR OWN BEST ANIMATION STUDIO? HIRE OUR VIDEO PRODUCTION SERVICES TO MEET THE SURGING DEMAND FOR VIDEO CONTENT IN 2023. OUR SERVICES ARE PROVIDED BY AWARD-WINNING ANIMATION PRODUCERS AND SKILLED CARTOON ANIMATORS.
+## IMAGINE HAVE YOUR PRIVATE BEST ANIMATION STUDIO! HIRE OUR VIDEO PRODUCTION SERVICES TO MEET THE SURGING DEMAND FOR VIDEO CONTENT IN 2023.
 
 #### GET FREE QUOTE NOW!
 Same day response, Easy, 1 min. form
@@ -10,15 +10,17 @@ Same day response, Easy, 1 min. form
 [Google](https://www.google.com/search?q=mediacraft.video+google+reviews&source=hp&ei=jofZY9eAIazLrgTMlprIBQ&iflsig=AK50M_UAAAAAY9mVnnMrQFpwRBYjGpSKoGkqMfJmK3CL&ved=0ahUKEwjX_7rl3_L8AhWspYsKHUyLBlkQ4dUDCAg&uact=5&oq=mediacraft.video+google+reviews&gs_lcp=Cgdnd3Mtd2l6EAM6BQgAEIAEOgUILhCABDoLCC4QgAQQxwEQ0QM6CAguEIAEENQCOgsILhCABBDHARCvAToICAAQgAQQyQM6CwguEK8BEMcBEIAEOg0ILhCABBDHARDRAxAKOgcIABCABBAKOgQIABAeOgYIABAIEB46CAgAEAgQHhAKOgIIJjoFCCEQoAE6BwghEKABEApQAFiRJGC0JmgAcAB4AIAB7AGIAcEZkgEHMTcuMTMuMZgBAKABAQ&sclient=gws-wiz) 
 5.0 Excellent *****
 
-| [FIRST PRIZE WINNER 2019  ](https://youtu.be/0NIfTr9mcxs)                                           |                      OPPO RENOVATORS 2021                       |                                 [DESIGN RUSH 2023](https://www.designrush.com/best-designs/video/trends/best-animated-video-designs?fbclid=IwAR0sq4t3g3671k9RE1KM3SUJgoXGX-fb7Kh_GcJwpRpxYpMmMQe3AIhjXqU#mcetoc_1gn7tlm2r1r1) |                                    [CHONGQING FESTIVAL 2023 ](https://youtu.be/iyZHUY1HKRc)|
-|:--------------------------------------------------------------------|:---------------------------------------------------------------:|-------------------------------------------------:|-----------------------------------------------------------:|
-| THE BIGGEST 3D PROJECTION <br/>MAPPING IN THE WORLD, SHENZHEN CHINA | SHORTLIST AWARD IN EMERGING ARTISTS PROJECT - TECHNOLOGY IN ART | AUTHOR OF ONE OF 14 WORLD'S BEST ANIMATED VIDEOS | FINALIST OF WORLDWIDE<br/>3D PROJECTION COMPETITION, CHINA |
+| [FIRST PRIZE WINNER 2019  ](https://youtu.be/0NIfTr9mcxs)           |                      OPPO RENOVATORS 2021                       | [DESIGN RUSH 2023](https://www.designrush.com/best-designs/video/trends/best-animated-video-designs?fbclid=IwAR0sq4t3g3671k9RE1KM3SUJgoXGX-fb7Kh_GcJwpRpxYpMmMQe3AIhjXqU#mcetoc_1gn7tlm2r1r1) |   [CHONGQING FESTIVAL 2023 ](https://youtu.be/iyZHUY1HKRc) |
+|:--------------------------------------------------------------------|:---------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------:|
+| THE BIGGEST 3D PROJECTION <br/>MAPPING IN THE WORLD, SHENZHEN CHINA | SHORTLIST AWARD IN EMERGING ARTISTS PROJECT - TECHNOLOGY IN ART |                                                                                                                                              AUTHOR OF ONE OF 14 WORLD'S BEST ANIMATED VIDEOS | FINALIST OF WORLDWIDE<br/>3D PROJECTION COMPETITION, CHINA |
 
-___
+
 
 ### WHO ARE WE?
 
-We are a company specializing in production of animated content, such as corporate or brand video, cartoon videos, commercials, and other forms of visual media. We employ concept artists, cartoon animators, writers, software developers and 3d animators to create high-quality, visually appealing animated content for a variety of different purposes, including entertainment, education, advertising, and more.
+We are a company specializing in production of animated content, such as corporate or brand video, cartoon videos, commercials, and other forms of visual media. We employ concept artists, cartoon animators, writers, software developers and 3d animators to create high-quality, visually appealing animated content for a variety of different purposes, including entertainment, education, advertising, and more. 
+
+## OUR SERVICES ARE PROVIDED BY AWARD-WINNING ANIMATION PRODUCERS AND SKILLED CARTOON ANIMATORS.
 
 
 ### UNDENIABLE FACT:
@@ -178,14 +180,22 @@ Our business model allows us to stack multiple advantages into one simple packag
 - Raytraced Rendering and Post Processing
 - Color Grading
 - Extremely High Quality ProRes 4:4:4:4 RGBA 12bit Codec Delivery
+- ANY video format conversion (hundreds of codecs) including WEB formats
 - Any resolution of **up to 16K**, 60fps, for each rendered movie
-- Projection Mapping and warping for custom build LED screens and large venue projector setups
-- Mapping for nDisplay cluster nodes, Unreal Engine 5  
 - Compliance checks with European and American Video broadcast standards
 - Easy and Secure Content Delivery via HIGH SPEED Cinema Industry Repository Servers
-- Easy Online Reviews with Graphical Markdown and Timeline Cued Commenting
-- 7 days/week availability for online video consultations at any production stage (for last-minute reviews when every minute counts)
+- Easy online feedback systems with frame-accurate commenting and drawing annotations for actionable reviews dramatically reducing review cycles.  
+- Full time availability for online video consultations at any production stage (for those last-minute reviews when every minute counts)
 - Web-based, super easy to use Kanban style project management, for transparent workflow control, time tracking and rapid visual feedback.
+
+BONUS:
+- Publishing on a custom ULTRA HIGH EFFICIENCY video server for easy embedding on Your website. Adaptive Bitrate Ladder (ABR) to avoid the hassle of multiple resolutions and formats to provide robust streaming even on old 3G mobile devices. Adaptive scaling of up to millions of simultaneous streams.
+
+OPTIONS FOR PROS:
+- Custom SideFX Houdini **.HDA Digital Assets** for film professionals and game developers. 
+- Projection Mapping and warping for custom built LED screens and large venue projector setups
+- Original animation content for nDisplay cluster nodes, Unreal Engine 5
+- Native 3D assets for Unreal Engine 5 and Unity
 
 ## We PROMISE to deliver by the agreed deadline, or you'll receive a refund!
 
